@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66e2ac7aab081104b9e7ad0bea44aa66
+timeCreated: 1485682771
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Skin: {fileID: 11400000, guid: 6293bdef77e520445b2a5cb01ce788dd, type: 2}
+  - FadeTexture: {fileID: 2800000, guid: e7d408c28925be148bd9ef32f4f28e44, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
