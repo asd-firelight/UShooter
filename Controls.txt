@@ -1,0 +1,8 @@
+Controls:
+
+A				Move Left
+D				Move Right
+W/Space			Jump
+Mouse1/Ctrl		Fire
+1				Weapon1
+2				Weapon2
